@@ -31,7 +31,10 @@ Industry Evolution
 Historically, IC design and manufacturing were tightly integrated within companies. Today, the industry is more modular:
 
 Fabless Design Companies: Focus solely on design.
-Pure-Play Foundries: Specialize only in fabrication.
+Pure-Play Foundries: Specialize only in fabrication. (Like originally TSMC I think).
+
+
+
 The RTL-to-GDSII Flow (Simplified)
 1. Synthesis
 
