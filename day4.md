@@ -9,3 +9,14 @@ Layout in Magic with Grid.
 
 <img width="757" height="758" alt="Screenshot 2025-07-22 at 9 45 28 PM" src="https://github.com/user-attachments/assets/33588da4-75c7-45e3-aef4-b57bdecf4edd" />
 TNS stands for Total Negative Slack - The value above is "pretty high" so remidation must be done.
+
+<img width="913" height="948" alt="Screenshot 2025-07-22 at 10 50 23 PM" src="https://github.com/user-attachments/assets/1a893f7a-99e5-4c3e-820b-3aa321a20bf3" />
+
+
+
+<img width="1375" height="821" alt="Screenshot 2025-07-23 at 3 49 08 PM" src="https://github.com/user-attachments/assets/b860b87f-839b-4b1c-80d4-96a350042991" />
+
+
+
+
+<img width="1375" height="821" alt="Screenshot 2025-07-23 at 3 49 08 PM" src="https://github.com/user-attachments/assets/57acb2bc-9729-4d3f-a113-0629d98f9cc7" />
