@@ -11,10 +11,7 @@ Layout in Magic with Grid.
 TNS stands for Total Negative Slack - The value above is "pretty high" so remidation must be done.
 
 
-
-
-<img width="1375" height="821" alt="Screenshot 2025-07-23 at 3 49 08 PM" src="https://github.com/user-attachments/assets/b860b87f-839b-4b1c-80d4-96a350042991" />
-
+<img width="944" height="924" alt="Screenshot 2025-07-23 at 9 48 05 PM" src="https://github.com/user-attachments/assets/63dee8dd-9866-469a-8bb6-c40242743b5b" />
 
 
 
