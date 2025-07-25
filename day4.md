@@ -23,3 +23,12 @@ So the new equation beocmes "theta < (T-S-S_uncertainty)"
 
 Base SDC file:
 <img width="760" height="518" alt="Screenshot 2025-07-23 at 10 39 02 PM" src="https://github.com/user-attachments/assets/fe3bcaac-8cce-421d-bbc4-8be6a6c4b6be" />
+
+
+
+<img width="705" height="456" alt="Screenshot 2025-07-24 at 10 17 57 PM" src="https://github.com/user-attachments/assets/413b45d2-ac8c-4264-8f37-fe8c0bea61a5" />
+
+This is a method to allow clocks to propogate through the tree. Using an "enable pin" you can greatly reduce power consumption when you aren't using an entire section of the clock tree. Similarly for an or gate, propogation only happens to "Y" (output) when there is a 0 on the enable. This is called the Clock Gating Technique. However this only works due to the process underlined below. 
+
+
+<img width="915" height="506" alt="Screenshot 2025-07-24 at 10 21 28 PM" src="https://github.com/user-attachments/assets/fd39a3c0-a1d1-4e9c-bb8c-fc3964979603" />
