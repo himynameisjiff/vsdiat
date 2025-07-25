@@ -11,12 +11,6 @@ Layout in Magic with Grid.
 TNS stands for Total Negative Slack - The value above is "pretty high" so remidation must be done.
 
 
-<img width="944" height="924" alt="Screenshot 2025-07-23 at 9 48 05 PM" src="https://github.com/user-attachments/assets/63dee8dd-9866-469a-8bb6-c40242743b5b" />
-
-Because of "jitter" clock pulse width and clock edge has variation. This is due to things that are physically present from the clock generation.
-This is representated as Uncertainty. For STA (setup timing anaylsis), because of how different edges interact, the clock window grows when you take into account Uncertanty.
-
-So the new equation beocmes "theta < (T-S-S_uncertainty)"
 
 <img width="1375" height="821" alt="Screenshot 2025-07-23 at 3 49 08 PM" src="https://github.com/user-attachments/assets/57acb2bc-9729-4d3f-a113-0629d98f9cc7" />
 
@@ -32,3 +26,11 @@ This is a method to allow clocks to propogate through the tree. Using an "enable
 
 
 <img width="915" height="506" alt="Screenshot 2025-07-24 at 10 21 28 PM" src="https://github.com/user-attachments/assets/fd39a3c0-a1d1-4e9c-bb8c-fc3964979603" />
+This is called a delay table. It essentially lets you calcualte the delay of every object within your system for CTS.
+
+<img width="944" height="924" alt="Screenshot 2025-07-23 at 9 48 05 PM" src="https://github.com/user-attachments/assets/63dee8dd-9866-469a-8bb6-c40242743b5b" />
+
+Because of "jitter" clock pulse width and clock edge has variation. This is due to things that are physically present from the clock generation.
+This is representated as Uncertainty. For STA (setup timing anaylsis), because of how different edges interact, the clock window grows when you take into account Uncertanty.
+
+So the new equation beocmes "theta < (T-S-S_uncertainty)"
