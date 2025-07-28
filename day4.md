@@ -34,3 +34,25 @@ Because of "jitter" clock pulse width and clock edge has variation. This is due 
 This is representated as Uncertainty. For STA (setup timing anaylsis), because of how different edges interact, the clock window grows when you take into account Uncertanty.
 
 So the new equation beocmes "theta < (T-S-S_uncertainty)"
+
+
+<img width="643" height="493" alt="Screenshot 2025-07-27 at 3 08 40 PM" src="https://github.com/user-attachments/assets/a777aa5f-cc86-4eed-aad4-6fff7880b9f6" />
+
+
+
+<img width="1019" height="1058" alt="Screenshot 2025-07-27 at 10 17 25 PM" src="https://github.com/user-attachments/assets/55d2baab-d4e9-4629-981c-9d37f2b6e7a5" />
+
+
+<img width="647" height="494" alt="Screenshot 2025-07-27 at 3 02 37 PM" src="https://github.com/user-attachments/assets/920c37e6-d4ed-4816-8945-5c8d9f495964" />
+
+
+<img width="866" height="749" alt="Screenshot 2025-07-27 at 10 22 22 PM" src="https://github.com/user-attachments/assets/be6674d0-c33b-46f0-a3a1-98984c056ae0" />
+
+
+
+
+
+
+
+
+
